@@ -22,3 +22,14 @@ The Send To Discord extension provides a convenient way to send URLs, images, an
    • Enhances collaboration: Facilitates the sharing of relevant web content among team members or community members.
    
    • Saves time: Avoids the hassle of manually copying and pasting URLs into Discord by providing a seamless integration.
+
+## Credits
+
+   1. Made By: [Sabbir](https://youtube.com/Therealsabbir)
+   2. YouTube: [youtube.com/TheRealSabbir](https://youtube.com/Therealsabbir)
+   3. Twitter: [twitter.com/TheIGL](twitter.com/TheIGL)
+   4. GitHub: [github.com/s8rr](github.com/s8rr)
+
+## License
+
+This project is licensed under the [MIT License](https://opensource.org/license/mit).
