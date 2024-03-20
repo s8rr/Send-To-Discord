@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Discord Webhook Sender</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+      background-color: #f0f0f0;
+    }
+    .container {
+      max-width: 300px;
+      margin: 0 auto;
+    }
+    h2 {
+      margin-bottom: 10px;
+      color: #333;
+    }
+    input[type="text"] {
+      width: 100%;
+      margin-bottom: 10px;
+      padding: 8px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      box-sizing: border-box;
+    }
+    button {
+      padding: 10px 20px;
+      background-color: #007bff;
+      color: #fff;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 16px;
+      margin-top: 10px;
+    }
+    button:hover {
+      background-color: #0056b3;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h2>Discord Webhook URL</h2>
+    <input type="text" id="webhookUrlInput" placeholder="Enter your webhook URL">
+    <button id="saveButton">Save</button>
+    <button id="sendPageUrlButton">Send Page URL to Discord</button>
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>
