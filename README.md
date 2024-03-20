@@ -18,5 +18,7 @@ The Send To Discord extension provides a convenient way to send URLs, images, an
 ## Benefits:
 
    • Simplifies communication: Quickly share interesting findings or important links with your Discord community.
+   
    • Enhances collaboration: Facilitates the sharing of relevant web content among team members or community members.
+   
    • Saves time: Avoids the hassle of manually copying and pasting URLs into Discord by providing a seamless integration.
